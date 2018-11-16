@@ -1,0 +1,11 @@
+[WORKSPACE]
+path = workspaces/
+datastore = file
+default = default
+
+[TRACKING]
+lap_time = 30                   # In minutes
+
+[INVOICING]
+hourly_rate = 100
+base_hrs = 1
